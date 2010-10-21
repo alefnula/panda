@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Panda
+Version: 0.0.1
+Summary: Panda is a Scheme implementation in Python.
+Home-page: http://bitbucket.org/alefnula/panda/
+Author: Viktor Kerkez
+Author-email: alefnula@gmail.com
+License: GPLv3
+Description: Panda (abbreviated from Python Lambda) if a full Scheme implementation in Python language.
+Platform: UNKNOWN

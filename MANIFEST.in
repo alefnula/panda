@@ -1,0 +1,4 @@
+include README INSTALL COPYING AUTHORS MANIFEST.in ChangeLog Makefile setup.py
+recursive-include data *
+recursive-include doc *
+recursive-include debian *
